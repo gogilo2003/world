@@ -1,0 +1,15 @@
+{
+    "name": "gogilo/world",
+    "description": "Migrations and seeds for continents and countries with country codes, calling codes, currency and time-zones",
+    "type": "laravel-package",
+    "require": {
+        "laravel/laravel": "6.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ogilo G. D. Ouma",
+            "email": "gogilo2003@hotmail.com"
+        }
+    ]
+}
