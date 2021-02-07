@@ -14,13 +14,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "World\\": "src/"
+            "Gogilo\\World\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "World\\ServiceProvider"
+                "Gogilo\\World\\ServiceProvider"
             ]
         }
     }
