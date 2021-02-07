@@ -2,16 +2,21 @@
     "name": "gogilo/world",
     "description": "A Laravel Package which provides Migrations and seeders for continents and countries",
     "type": "laravel-package",
-    "require": {
-        "laravel/laravel": "6.*"
-    },
-    "license": "MIT",
     "authors": [
         {
             "name": "Ogilo G. D. Ouma",
             "email": "gogilo2003@hotmail.com"
         }
     ],
+    "require": {
+        "laravel/laravel": "6.*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "World\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
