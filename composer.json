@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Gogilo\\World\\ServiceProvider"
+                "Gogilo\\World\\WorldServiceProvider"
             ]
         }
     }
