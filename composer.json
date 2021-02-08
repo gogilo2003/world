@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "laravel/laravel": "6.*"
+        "laravel/laravel": ">=6.*"
     },
     "license": "MIT",
     "autoload": {
