@@ -8,9 +8,6 @@
             "email": "gogilo2003@hotmail.com"
         }
     ],
-    "require": {
-        "laravel/laravel": ">=6.*"
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
